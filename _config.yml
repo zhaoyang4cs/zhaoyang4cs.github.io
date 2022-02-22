@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "./images/zhaoyang.png"
+  name             : "Brief introduction"
+  avatar           : "zhaoyang.png"
   bio              : "Hi, I'm Yang Zhao, a CS student."
   location         : "Harbin"
   employer         :
